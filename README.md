@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 [![Timo972's github stats](https://github-readme-stats.vercel.app/api?username=Timo972&cache_seconds=1800&bg_color=30,1f2129,16171d&icon_color=3498db&title_color=3498db&count_private=true&show_icons=true&text_color=fff&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
 
+## alt:V Multiplayer related stuff
+ - [Freeroam Gamemode](https://github.com/Timo972/nontoxic_freeroom)
+ - [CLI Updater](https://github.com/Timo972/altv-updater-js)
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timo972&layout=full)](https://github.com/anuraghazra/github-readme-stats)-->
