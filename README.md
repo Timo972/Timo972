@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 ## alt:V Multiplayer related stuff
  - [Freeroam gamemode](https://github.com/Timo972/nontoxic_freeroom)
  - [CLI updater](https://github.com/Timo972/altv-updater-js)
- - [Server config parser](https://github.com/Timo972/cfg-reader)
+ - [CFG-Reader](https://github.com/Timo972/cfg-reader)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timo972&layout=full)](https://github.com/anuraghazra/github-readme-stats)-->
