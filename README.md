@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Timo972's github stats](https://github-readme-stats.vercel.app/api?username=Timo972&cache_seconds=1800&bg_color=30,1f2129,16171d&icon_color=3498db&title_color=3498db&count_private=true&show_icons=true&text_color=fff&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Timo972's github stats](https://github-readme-stats.vercel.app/api?username=Timo972&cache_seconds=1800&bg_color=30,1f2129,16171d&icon_color=3498db&title_color=3498db&count_private=true&show_icons=true&text_color=fff&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timo972&layout=compact&cache_seconds=1800&bg_color=30,1f2129,16171d&icon_color=3498db&title_color=3498db&count_private=true&show_icons=true&text_color=fff&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ## alt:V Multiplayer related stuff
  - [Freeroam gamemode](https://github.com/Timo972/nontoxic_freeroom)
