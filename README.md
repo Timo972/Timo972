@@ -27,4 +27,10 @@ Here are some ideas to get you started:
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=timo972&repo=altv-updater-js&cache_seconds=1800&bg_color=30,1f2129,16171d&icon_color=3498db&title_color=3498db&show_icons=true&text_color=fff)](https://github.com/Timo972/altv-updater-js)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=timo972&repo=cfg-reader&cache_seconds=1800&bg_color=30,1f2129,16171d&icon_color=3498db&title_color=3498db&show_icons=true&text_color=fff)](https://github.com/Timo972/cfg-reader)
 
+## Crypto Tools
+
+[Return of invest calculator](https://roi.timosengine.cf)
+
+[Helium Resolution Map](https://helium.timosengine.cf)
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timo972&layout=full)](https://github.com/anuraghazra/github-readme-stats)-->
