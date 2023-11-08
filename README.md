@@ -22,16 +22,17 @@ Here are some ideas to get you started:
 
 ### About me
 - 🏫 mostly self-taught
-- ⚙️ gaining fullstack experience since ~5 years
+- ⚙️ gaining fullstack experience since 2018
+- 🌟 highly confident developing Typescript and Golang
 <!-- - 🎮 developing for at least 3 years @ altv-->
 
 ### Whats up?
 <!-- <p>💸 I am currently freelancing, predominantly in the frontend, for multiple alt:V Server Projects.</p> -->
 <!-- <p>🥳 Additionally i am building my personal <a href="https://tbeck.dev" target="_blank">website</a> & the <a href="https://github.com/timo972/altv-go" target="_blank">alt:V Go Module</a></p> -->
 <p>🚀 I am currently working on several full-stack side projects.</p>
-<p>ℹ️ If you would like to work with me contact me via <a href="https://discordapp.com/users/262702731309875200" target="_blank">Discord</a> (Timo9#4468)</p>
+<p>✉️ If you would like to work with me contact me via <a href="https://discordapp.com/users/262702731309875200" target="_blank">Discord</a> (Timo9#4468)</p>
 
-### Skills
+### Skills - Technologies I use to realize Projects
 <b>Languages & Frameworks</b>
 <p>
   <!-- arduino -->
@@ -56,6 +57,8 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <!-- php -->
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <!-- laravel -->
+  <a href="https://laravel.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a> 
   <!-- python -->
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <!-- sass -->
@@ -63,11 +66,13 @@ Here are some ideas to get you started:
   <!-- typescript -->
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <!-- react -->
-  <!--<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> -->
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
   <!-- vue -->
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
   <!-- nuxt -->
-  <a href="https://v3.nuxtjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> </a>
+  <a href="https://nuxt.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/> </a>
+  <!-- svelte -->
+  <a href="https://svelte.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/> </a>
    <!-- tailwindcss -->
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <!-- discordjs -->
@@ -116,6 +121,7 @@ Here are some ideas to get you started:
   <a href="https://solana.com/" target="_blank"> <img src="https://solana.com/de/src/img/branding/solanaLogoMark.svg" alt="solana" width="40" height="40" /> </a>
   <a href="https://altv.mp/" target="_blank"> <img src="https://altv.mp/branding/svg/logo.svg" alt="altv" width="40" height="40" /> </a>
   <a href="https://www.cloudflare.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40" /> </a>
+  <a href="https://pocketbase.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/pocketbase.svg" alt="pocketbase" width="40" height="40" /> </a>
 </p>
 <!--[![Top Langs](https://
 hub-readme-stats.vercel.app/api/top-langs/?username=Timo972&layout=full)](https://github.com/anuraghazra/github-readme-stats)-->
