@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 ### Whats up?
 <!-- <p>💸 I am currently freelancing, predominantly in the frontend, for multiple alt:V Server Projects.</p> -->
 <!-- <p>🥳 Additionally i am building my personal <a href="https://tbeck.dev" target="_blank">website</a> & the <a href="https://github.com/timo972/altv-go" target="_blank">alt:V Go Module</a></p> -->
-<p>🚀 I am currently working on several full-stack side projects.</p>
-<p>✉️ If you would like to work with me contact me via <a href="https://discordapp.com/users/262702731309875200" target="_blank">Discord</a> (Timo9#4468)</p>
+<p>🤖 I am currently buiding a phone use agent & infra at Droidrun.</p>
+<p>✉️ For business inquiries contact me via email: <a href="mailto:timo@droidrun.ai">timo@droidrun.ai</a></p>
+<p>💬 You can reach me personally on <a href="https://discordapp.com/users/262702731309875200" target="_blank">Discord</a> (Timo9#4468)</p>
 
 ### Skills - Technologies I use to realize Projects
 <b>Languages & Frameworks</b>
